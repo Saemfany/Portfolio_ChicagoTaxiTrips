@@ -9,6 +9,7 @@ This repository contains a detailed analysis of the Chicago Taxi Trips dataset, 
 * [Analysis](https://github.com/Saemfany/Portfolio_ChicagoTaxiTrips/blob/main/README.md#analysis)
 * [Results](https://github.com/Saemfany/Portfolio_ChicagoTaxiTrips/blob/main/README.md#results)
 * [Conclusion](https://github.com/Saemfany/Portfolio_ChicagoTaxiTrips/blob/main/README.md#conclusion)
+* [Additional Resources]()
 * [License](https://github.com/Saemfany/Portfolio_ChicagoTaxiTrips/blob/main/README.md#license)
 
 ## Introduction
@@ -50,6 +51,11 @@ Key findings from the analysis:
 
 ## Conclusion
 The analysis provides valuable insights into taxi operations in Chicago. By identifying popular routes, peak times, and payment preferences, taxi companies can optimize their services and pricing strategies.
+
+## Additional Resources
+* SQL Queries: The SQL queries used for this project can be found [here](https://github.com/Saemfany/Portfolio_ChicagoTaxiTrips/blob/main/chicago_taxi_trips_sql.md).
+* Python Code: The Python code for the analysis, executed using Google Colab, is available [here](https://github.com/Saemfany/Portfolio_ChicagoTaxiTrips/blob/main/chicago_taxi_trips.ipynb).
+* Report: You can view the full data analysis report [here](https://github.com/Saemfany/Portfolio_ChicagoTaxiTrips/blob/main/Chicago_Taxi_Trips.pdf).
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Saemfany/Portfolio_ChicagoTaxiTrips/blob/5cb64e172d58f0347e493a9d1b76ce645e52c695/LICENSE) file for more details.
