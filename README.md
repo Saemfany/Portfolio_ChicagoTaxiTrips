@@ -9,7 +9,7 @@ This repository contains a detailed analysis of the Chicago Taxi Trips dataset, 
 * [Analysis](https://github.com/Saemfany/Portfolio_ChicagoTaxiTrips/blob/main/README.md#analysis)
 * [Results](https://github.com/Saemfany/Portfolio_ChicagoTaxiTrips/blob/main/README.md#results)
 * [Conclusion](https://github.com/Saemfany/Portfolio_ChicagoTaxiTrips/blob/main/README.md#conclusion)
-* [Additional Resources]()
+* [Additional Resources](https://github.com/Saemfany/Portfolio_ChicagoTaxiTrips/blob/main/README.md#additional-resources)
 * [License](https://github.com/Saemfany/Portfolio_ChicagoTaxiTrips/blob/main/README.md#license)
 
 ## Introduction
